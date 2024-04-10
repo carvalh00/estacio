@@ -28,14 +28,36 @@ em > strong {
     color: red;
 }
 
-beneficios {
+.beneficios {
     background: white;
+    padding: 20px;
 }
 
 .itens {
     font-style: italic;
 }
 
+.titulo-principal {
+    padding-left: 50px;
+    background: #779999;
+}
+
 .principal {
     background-color: #DBDBDB;
+    padding: 30px;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15%;
+    width: 20%;
 }
